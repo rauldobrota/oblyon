@@ -1,0 +1,84 @@
+Module113900Name = Oblyon
+Module113900Desc = Panou de configurare temă Oblyon
+
+#
+# Menus
+#
+OblyonMenusTitle = Configurator Oblyon - Editor meniuri
+OblyonSuccessMessage = Oblyon theme detected, you can now personalize it.
+OblyonErrorMessage = You must use the Oblyon theme in order to personalize it.
+OblyonMenusErrorMessage = You must use the Oblyon menus in order to personalize it. Please check your current menu manager.
+LeftMenu = Menu stânga
+TopMenu = Meniu Top
+InvertMenus = Inversează meniuri
+FullsizeTopBar = Bară Top fullsize
+FullsizeTopBarWarning = Foloseşte un număr limitat de elemente meniu.
+ShowCompanyName = Afişează numele Companiei
+StickyTopBar = Bară Top lipicioasă
+StickyTopBarWarning = Experimental. Foloseşte un număr limitat de elemente meniu.
+StickyTopBarInvertedWarning = Certain modules are not supported with this feature.
+StickyLeftBar = Bară stânga lipicioasă
+StickyLeftBarWarning = Experimental. Foloseşte un număr limitat de elemente meniu.
+StickyLeftBarInvertedWarning = Certain modules are not supported with this feature.
+HideLeftMenu = Ascude Meniul Stânga
+OpenEffect = Efect de deschidere
+EffectLeftMenuSlide = Slide
+EffectLeftMenuPush = Push
+HideTopIcons = Ascunde Top Icons
+HideLeftIcons = Ascunde Left Icons
+# <3.7
+EldyOldIcons = Eldy Old Icons
+EldyOldIconsWarning = Experimental 
+# >3.7 
+EldyIcons = Eldy Icons
+EldyIconsWarning = Experimental
+LogoSize = Logo Size(Small/Big)
+LogoPadding = Logo Paddings
+NoPaddingLogo = No
+PaddingLogo = Yes
+ShowLeftMenu = Arată/Ascunde meniu Stânga
+
+#
+# Colors page
+#
+OblyonColorsTitle = Oblyon Configurator - Colors
+Colors=Colors
+OBLYON_COLOR_MAIN=Culoare principală
+OBLYON_COLOR_BCKGRD=Culoare fundal
+OBLYON_COLOR_LOGO_BCKGRD=Culoare fundal logo
+OBLYON_COLOR_LOGIN_BCKGRD=Culoare fundal Login
+OBLYON_COLOR_BLINE=Lines background color
+OBLYON_COLOR_FLINE=Lines text color
+OBLYON_COLOR_FLINE_HOVER=Lines text hover color
+OBLYON_COLOR_TOPMENU_BCKGRD=Topmenu background color
+OBLYON_COLOR_TOPMENU_BCKGRD_HOVER=Topmenu background hover color
+OBLYON_COLOR_TOPMENU_TXT=Topmenu color text
+OBLYON_COLOR_LEFTMENU_BCKGRD=Leftmenu background color
+OBLYON_COLOR_LEFTMENU_BCKGRD_HOVER=Leftmenu background hover color
+OBLYON_COLOR_LEFTMENU_TXT=leftmenu color text
+RestoreDefaultColors=Restore default colors
+DefaultsColorsMsg=Default colors restored
+OblyonGreen=Oblyon Green
+ThemeOblyonGreenApplied=Oblyon green template applied
+OblyonDark=Oblyon Dark
+ThemeOblyonDarkApplied=Oblyon dark template applied
+OblyonBlue=Oblyon Blue
+ThemeOblyonBlueApplied=Oblyon blue template applied
+OblyonNight=Oblyon Night
+ThemeOblyonNightApplied=Oblyon night template applied
+
+#
+# About page
+#
+ThemeOblyonAboutTitle = Configurator temă Oblyon - Despre
+OblyonAbout = Despre
+Authors=Autori
+LicenseMessage = Theme Oblyon is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+
+#
+# Others
+#
+MenuCatalog=Catalog
+MenuProjectsOpportunities=Proiecte|Oportunităţi
+MenuContractsSubscriptions=Contracte|Abonamente
+MenuTickets= Tichete
